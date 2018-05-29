@@ -10,3 +10,6 @@ Also this program can also do some more general things in visualize how a system
 The tree map system is a general interface, and file system is just a one particular implementation of it, and I also implemented a PopulationTree which retrieve population data from World Bank API and get a nice interactive graphical representation of this data.
 
 The program is intended for practicing and gaining hands-on experiences on the concept of tree data structure, and its implementation in Python.
+
+Instruction on how to use the program: 
+the main function is treemap_visualiser.py, input the file path in the main part and run the code, you shall see the visuliazation of you file system.
