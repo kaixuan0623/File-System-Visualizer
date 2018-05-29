@@ -1,4 +1,4 @@
-# File-System-Visualizer
+# File System Visualizer
 
 A Python project that, given a path which points to a folder in you computer, it can visualize how the file system is organized by drawing some colourful rectangles on screen, 
 each of which represents a file that the size of each rectangle is proportional to its real size.
