@@ -8,3 +8,5 @@ And this program also provides some operations that can be used to modified the 
 Also this program can also do some more general things in visualize how a system with some numeral attribute organized, and possibly can visualize a dynamic chance of this system. 
 
 The tree map system is a general interface, and file system is just a one particular implementation of it, and I also implemented a PopulationTree which retrieve population data from World Bank API and get a nice interactive graphical representation of this data.
+
+The program is intended for practicing and gaining hands-on experiences on the concept of tree data structure, and its implementation in Python.
